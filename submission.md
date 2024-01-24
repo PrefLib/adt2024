@@ -7,8 +7,6 @@ published: true
 ## Important Dates
 * **Title and Abstract Submission:** May 10, 2024
 * **Full Paper Submission:** May 17, 2024
-* **Reviewing Starts:** May 24, 2024
-* **Reviews Due:** June 28, 2024
 * **Notification:** July 19, 2024
 * **Final Version of Accepted Papers:** August 9, 2024
 * **Conference Dates:** October 14-16, 2024
@@ -18,7 +16,7 @@ Submissions are invited on significant, original and previously unpublished rese
 
 ADT 2024 will not accept any paper that, at the time of submission, has already been published in a journal or another venue with formally published proceedings. However, in order to accommodate the publication norms of the many fields that work on decision theory, papers can be submitted but not already published elsewhere provided the authors note they are submitting for the non-proceedings track at the top of their submission. 
 
-All papers will be peer-reviewed by a double-blind procedure. Therefore, papers must be submitted anonymously as pdf documents via the ConfMaster system:
+All papers will be peer-reviewed by a double-blind procedure. Therefore, papers must be submitted anonymously as pdf documents via the Microsoft CMT system:
 
 TBD
 
