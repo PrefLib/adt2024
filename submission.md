@@ -16,9 +16,7 @@ Submissions are invited on significant, original and previously unpublished rese
 
 ADT 2024 will not accept any paper that, at the time of submission, has already been published in a journal or another venue with formally published proceedings. However, in order to accommodate the publication norms of the many fields that work on decision theory, papers can be submitted but not already published elsewhere provided the authors note they are submitting for the non-proceedings track at the top of their submission. 
 
-All papers will be peer-reviewed by a double-blind procedure. Therefore, papers must be submitted anonymously as pdf documents via the Microsoft CMT system:
-
-TBD
+All papers will be peer-reviewed by a double-blind procedure. Therefore, papers must be submitted anonymously as pdf documents via the [Microsoft CMT](https://cmt3.research.microsoft.com/ADT2024) system.
 
 It is important and required that authors do not reveal their identities in submitted papers. Since the review process is double blind, authors must take measures to ensure that their identity is not easily revealed from the submission itself. Authors should include the submission number (as assigned by the conference system) in the author field of the submission, and refer to their prior work in a neutral manner (i.e., instead of saying “We showed” say “XYZ et al. showed”). It is acceptable to submit work that has been presented in public or has appeared on arXiv, provided the submission itself is anonymized.
 
