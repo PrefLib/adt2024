@@ -15,6 +15,7 @@ published: true
 * [Nicholas Mattei](http://www.nickmattei.net/), Tulane University
 
 ## Program Committee
+
 | **Name**                  | **Organization**                                       |
 |---------------------------|--------------------------------------------------------|
 | Alan Tsang                | Carleton                                               |
