@@ -19,8 +19,3 @@ The 8th International Conference on Algorithmic Decision Theory (ADT 2024) will 
 ## Full Schedule
 
 TBD
-
-<!--
-| Time | Session | Topic | Structure |
-|:----------:|:-------------:|:------:|:------:|
---!>
