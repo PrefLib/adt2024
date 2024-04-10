@@ -9,7 +9,7 @@ The 8th International Conference on Algorithmic Decision Theory (ADT 2024) will 
 
 ## Invited Talks
 
-**[Tracy Liu](https://tracyxliu.com/)** is an Associate Professor at the Department of Economics, School of Economics and Management, Tsinghua University. Tracy studies behavioral market design and behavioral game theory, such as the design of innovative markets and transfer of learning between repeated games.
+**[Xiao (Tracy) Liu](https://tracyxliu.com/)** is an Associate Professor at the Department of Economics, School of Economics and Management, Tsinghua University. Tracy studies behavioral market design and behavioral game theory, such as the design of innovative markets and transfer of learning between repeated games.
 
 **[Herve Moulin](https://www.gla.ac.uk/schools/business/staff/hervemoulin/)** graduated in 1971 from the Ecole Normale Superieure in Paris and received his PhD in mathematics from the Université de Paris in 1975. After teaching at the Ecole Nationale de la Statistique et Administration Economique and Dauphine University in Paris, he moved to the USA in 1984, first to the Virginia Polytechnic Institute and State University, then to Duke and Rice Universities. He joined the University of Glasgow in 2013. He is a Fellow of the Econometric Society since 1983, of the Royal Society of Edinburgh since 2015, and of the British Academy since 2018.
 
