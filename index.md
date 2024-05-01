@@ -37,3 +37,7 @@ Please see the [Submissions Page](./submission) for full details and submission 
 ADT 2024 is proudly supported by the journal [*Artificial Intelligence*](https://aij.ijcai.org/funding-opportunities-for-promoting-ai-research/).
 
 <p style="text-align:center;"><img src="{{ 'img/aij_logo.jpeg' | relative_url }}" /></p>
+
+ADT 2024 is proudly supported by the [*Darden School of Buisness at the University of Virginia*](https://www.darden.virginia.edu/).
+
+<p style="text-align:center;"><img src="{{ 'img/darden.jpeg' | relative_url }}" /></p>
