@@ -16,8 +16,8 @@ The 8th International Conference on Algorithmic Decision Theory (ADT 2024) focus
 ADT 2024 provides a multi-disciplinary forum for sharing knowledge in this area with a special focus on algorithmic issues in decision theory, continuing the tradition of the first seven editions of the International Conference on Algorithmic Decision Theory (ADT 2009 Venice, ADT 2011 Rutgers, ADT 2013 Brussels, ADT 2015 Lexington KY, ADT 2017 Luxembourg, ADT 2019 Durham NC, ADT 2021 Toulouse) which brought together researchers and practitioners from diverse areas of computer science, economics, and operations research from around the globe.
 
 ## Important Dates
-* **Title and Abstract Submission:** May 10, 2024
-* **Full Paper Submission:** May 17, 2024
+* **Title and Abstract Submission:** ~~May 10, 2024~~ May 24, 2024
+* **Full Paper Submission:** ~~May 17, 2024~~ May 31, 2024
 * **Notification:** July 19, 2024
 * **Final Version of Accepted Papers:** August 9, 2024
 * **Conference Dates:** October 14-16, 2024
