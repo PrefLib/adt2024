@@ -22,6 +22,8 @@ It is important and required that authors do not reveal their identities in subm
 
 **Submission Format:** Authors should consult [Springer’s authors’ guidelines and use their proceedings templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), either for LaTeX or for Word, for the preparation of their papers. Note that at least one author of each accepted paper is required to attend the conference to present the work. Authors will be required to agree to this requirement at the time of submission. In addition, the corresponding author of each accepted paper that will appear in the proceedings, acting on behalf of all of the authors of that paper, will need to complete and sign a Consent-to-Publish form, through which the copyright for their paper is transferred to Springer.
 
+You may submit an appendix of any length into the CMT system. There is a separate area in CMT for this, the appendix should be formatted in the same way as the main paper. Please not reviewers are not required to review the appendix so the paper should stand on its own. 
+
 To accommodate the publishing traditions of different fields, ADT 2024 will accept two types of submissions:
 
 **Submissions with full text in the proceedings:** Papers of this type will be accepted for either oral or poster presentation, or both. Each accepted paper of this type will be allocated at most 15 pages in the proceedings and there will be no distinction between papers accepted for oral or poster presentation in the conference proceedings.
