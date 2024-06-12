@@ -34,6 +34,10 @@ Please see the [Submissions Page](./submission) for full details and submission 
 
 ## Sponsorship
 
+ADT 2024 is proudly supported by the journal [*The DIMACS Center at Rutgers University*](http://dimacs.rutgers.edu/).
+
+<p style="text-align:center;"><img src="{{ 'img/rutgers-logo.png' | relative_url }}" /></p>
+
 ADT 2024 is proudly supported by the journal [*Artificial Intelligence*](https://aij.ijcai.org/funding-opportunities-for-promoting-ai-research/).
 
 <p style="text-align:center;"><img src="{{ 'img/aij_logo.jpeg' | relative_url }}" /></p>
@@ -41,3 +45,7 @@ ADT 2024 is proudly supported by the journal [*Artificial Intelligence*](https:/
 ADT 2024 is proudly supported by the [*Darden School of Buisness at the University of Virginia*](https://www.darden.virginia.edu/).
 
 <p style="text-align:center;"><img src="{{ 'img/darden.jpeg' | relative_url }}" /></p>
+
+ADT 2024 is proudly supported by the [*EURO Working Group on Preference Handling*](https://www.euro-online.org/web/ewg/31/euro-working-group-on-preference-handling).
+
+<p style="text-align:center;"><img src="{{ 'img/euro-pref.png' | relative_url }}" /></p>
