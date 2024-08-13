@@ -5,10 +5,10 @@ published: true
 ---
 
 ## Important Dates
-* **Title and Abstract Submission:** ~~May 10, 2024~~ May 24, 2024
-* **Full Paper Submission:** ~~May 17, 2024~~ May 31, 2024
-* **Notification:** July 19, 2024
-* **Final Version of Accepted Papers:** August 9, 2024
+* **Title and Abstract Submission:** ~~May 10, 2024~~ ~~May 24, 2024~~
+* **Full Paper Submission:** ~~May 17, 2024~~ ~~May 31, 2024~~
+* **Notification:** ~~July 19, 2024~~
+* **Final Version of Accepted Papers:** ~~August 9, 2024~~
 * **Conference Dates:** October 14-16, 2024
 
 ## Submission Site and Details

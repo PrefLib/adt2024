@@ -21,7 +21,10 @@ The 8th International Conference on Algorithmic Decision Theory (ADT 2024) will 
 
 **[Jenn Wortman Vaughan](https://www.jennwv.com/)** is a Senior Principal Researcher at Microsoft Research, New York City. She currently focuses on Responsible AI—including transparency, interpretability, and fairness—as part of MSR's FATE group and co-chair of Microsoft’s Aether Working Group on Transparency. Jenn's research background is in machine learning and algorithmic economics, but she now frequently incorporates techniques from HCI into her research in order to better understand the interaction between people and AI systems. Jenn came to MSR in 2012 from UCLA, where she was an assistant professor in the computer science department. She completed her Ph.D. at the University of Pennsylvania in 2009, and subsequently spent a year as a Computing Innovation Fellow at Harvard. She is the recipient of Penn's 2009 Rubinoff dissertation award for innovative applications of computer technology, a National Science Foundation CAREER award, a Presidential Early Career Award for Scientists and Engineers (PECASE), and a variety of best paper awards. Jenn co-founded the Annual Workshop for Women in Machine Learning (WiML), which has been held each year since 2006, and recently served as Program Co-chair of NeurIPS 2021.
 
+## Schedule Overview
 
-## Full Schedule
+<img src="{{ 'img/schedule.png' | relative_url }}" />
 
-TBD
+## Paper Sessions 
+
+Some details below are still TBD.
