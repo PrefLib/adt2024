@@ -14,6 +14,12 @@ Wednesday October 16th and FredFest (see below) on Thursday Ocrober 17th will ta
 
 Please visit the [Registration Page](http://archive.dimacs.rutgers.edu/Workshops/ADT2024/registpay.html) to register.
 
+## Travel Information
+
+Travel Information
+
+The [DIMACS travel page](http://dimacs.rutgers.edu/about/travel/) has information about traveling to the conference, including transportation and hotel options. Most workshop participants will be staying at the [Heldrich hotel in downtown New Brunswick NJ](https://www.theheldrich.com/).
+
 ## Co-Located Events
 
 **DIMACS Forecasting Workshop:** On Monday October 14th 2024, DIMACS will hold a workshop on Forecasting. In this workshop, we will bring together computer scientists, economists, statisticians, and decision scientists, some who develop theories of forecasting and others who study it empirically. We invite academics together with practitioners who build forecasting platforms, operate forecasting competitions, and publish predictions. Our primary focus is on what happens after predictive models have been trained or formed; that said, still in scope are data-driven and machine-learning-based techniques that aggregate forecasts and other information to harness the so-called wisdom of the crowd. [More information is available here.](http://dimacs.rutgers.edu/events/details?eID=2897)
