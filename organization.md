@@ -7,7 +7,7 @@ published: true
 
 ## General Chairs
 * [David Pennock](https://dpennock.com/), DIMACS Director and Rutgers University
-* [Lirong Xia](https://www.cs.rpi.edu/~xial/), Rensselaer Polytechnic Institute (RPI)
+* [Lirong Xia](https://www.cs.rpi.edu/~xial/), Rutgers and DIMACS
 
 
 ## Program Chairs
@@ -22,7 +22,7 @@ published: true
 | Alan Tsang                | Carleton                                               |
 | Alexis Tsoukias           | CNRS                                                   |
 | Andrea Loreggia           | University of Brescia                                  |
-| Arianna Novaro            | CES, Universit√© Paris 1 Panth√©on-Sorbonne            |
+| Arianna Novaro            | CES, University Paris 1 Pantheon-Sorbonne            |
 | Avinash    Balakrishnan   | IBM                                                    |
 | Ayumi Igarashi            | University of Tokyo                                    |
 | Ben Armstrong             | University of Waterloo                                 |
