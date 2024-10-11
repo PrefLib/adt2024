@@ -8,6 +8,8 @@ published: true
 
 ### Registration information is available at the [Attending](./attending) page!
 
+### Full Conference Proceedings are available at the [Springer Website for ADT 2024!](https://link.springer.com/book/9783031739026)
+
 ## About the 8th International Conference on Algorithmic Decision Theory (ADT 2024)
 
 The 8th International Conference on Algorithmic Decision Theory (ADT 2024) focuses on algorithmic decision theory broadly defined, seeking to bring together researchers and practitioners coming from diverse areas of Computer Science, Economics, and Operations Research in order to improve the theory and practice of modern decision support. The conference topics include research in: 
