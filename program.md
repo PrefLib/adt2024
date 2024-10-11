@@ -6,9 +6,9 @@ published: true
 
 The 8th International Conference on Algorithmic Decision Theory (ADT 2024) will be held in October 2024 at the Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University, Piscataway, NJ. 
 
-## Schedule Overview
+The conference proceedings can be accessed at the [Springer Website for the 8th International Conference on Algorithmic Decision Theory (ADT 2024)](https://link.springer.com/book/9783031739026).
 
-Overview schedule is below, there may be some adjustments on break times but paper days will not move.
+## Schedule Overview
 
 <img src="{{ 'img/schedule.png' | relative_url }}" />
 
