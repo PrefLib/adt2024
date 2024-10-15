@@ -12,6 +12,8 @@ The conference proceedings can be accessed at the [Springer Website for the 8th 
 
 <img src="{{ 'img/schedule.png' | relative_url }}" />
 
+Please bring your slides up in the break before your session to load on the common computer.
+
 ## Invited Talks
 
 <img src="{{ 'img/XiaoTracyLiu.jpg' | relative_url }}" />
@@ -41,7 +43,7 @@ The conference proceedings can be accessed at the [Springer Website for the 8th 
 |                                                                                 |                                                                                                      |                                                                                                                                                                                            |
 | **Invited Talk 2** Session Chair: Lirong Xia                                                             |        Economic Rationality of Humans and AI    | Xiao (Tracy) Liu (Tsinghua University)                                                                                                                                                                          |
 |                                                                                 |                                                                                                      |                                                                                                                                                                                            |
-| **Talk Session 2 (6): Game Theory and Decision Making**                         | Equilibria of Data Marketplaces with Privacy-Aware Sellers under Endogenous Privacy Costs            | Diptangshu Sen (Georgia Institute of Technology); Jingyan Wang (Georgia Institute of Technology); Juba Ziani (Georgia Institute of Technology)                                            |
+| **Talk Session 2 (6): Game Theory and Decision Making** Session Chair: Neeldhara Misra                        | Equilibria of Data Marketplaces with Privacy-Aware Sellers under Endogenous Privacy Costs            | Diptangshu Sen (Georgia Institute of Technology); Jingyan Wang (Georgia Institute of Technology); Juba Ziani (Georgia Institute of Technology)                                            |
 | 18 Min Talks + 2 Mins Questions = 2 Hours                                       | Extending Myerson's Optimal Auctions to Correlated Bidders via Neural Network Interpolation          | Mingyu Guo (U Adelaide); Jiayuan Liu (Carnegie Mellon University); Vincent Conitzer (Carnegie Mellon University)                                                                          |
 |                                                                                 | No-Regret Learning for Stackelberg Equilibrium Computation in Newsvendor Pricing Games               | Larkin Liu (TU Munich); Yuming Rong (Google)                                                                                                                                              |
 |                                                                                 | Protective and Nonprotective Subset Sum Games: A Parameterized Complexity Analysis                   | Jaroslav Garvardt (Friedrich Schiller University Jena); Christian Komusiewicz (Friedrich Schiller University Jena); Berthold Blatt Lorke (TU Berlin); Jannik Schestag (FSU Jena)          |
