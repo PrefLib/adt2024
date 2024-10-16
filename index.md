@@ -4,7 +4,7 @@ title: The 8th International Conference on Algorithmic Decision Theory (ADT 2024
 subtitle: October 14 - 16, Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University, Piscataway, NJ
 published: true
 ---
-<p style="text-align:center;"><img src="{{ 'img/img/ADT2024_group_photo.jpg' | relative_url }}" /></p>
+<p style="text-align:center;"><img src="{{ 'img/ADT2024_group_photo.jpg' | relative_url }}" /></p>
 
 ### Registration information is available at the [Attending](./attending) page!
 
